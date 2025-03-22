@@ -1,0 +1,2 @@
+1. What is namespace in Liferay ServiceBuilder?
+A: In Liferay Service Builder, a namespace is a string used to distinguish different plugins and is used to prefix table names in the database, ensuring uniqueness and preventing naming conflicts.
